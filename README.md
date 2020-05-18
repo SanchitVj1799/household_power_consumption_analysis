@@ -1,4 +1,3 @@
-#Household Power Consumption
 Machine Learning Methods used:
 1. K-Nearest Neighbors
 2. Support Vector Regressor
